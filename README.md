@@ -18,13 +18,13 @@ Install the `shuji` command line utility globally with [npm](https://www.npmjs.c
 Elevated privileges might be needed via `sudo`, depending on the platform. In most cases just:
 
 ```sh
-npm install --global shuji
+npm install ngup63/shuji -g
 ```
 
 Usage example:
 
 ```sh
-shuji file.js.map -o folder
+shuji file.js.map -o folder -p
 ```
 
 Please note that the minimum supported version of [Node.js](https://nodejs.org/en/) is `14.15.0`, which is [the active Long Term Support (LTS) version](https://github.com/nodejs/Release#release-schedule).

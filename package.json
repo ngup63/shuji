@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/paazmaya/shuji.git"
+    "url": "git+ssh://git@github.com/ngup63/shuji.git"
   },
   "keywords": [
     "sourcemap",
@@ -29,14 +29,15 @@
   "author": "Juga Paazmaya <paazmaya@yahoo.com> (https://paazmaya.fi)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/paazmaya/shuji/issues"
+    "url": "https://github.com/ngup63/shuji/issues"
   },
   "engines": {
     "node": ">=14.15.0"
   },
-  "homepage": "https://github.com/paazmaya/shuji#readme",
+  "homepage": "https://github.com/ngup63/shuji#readme",
   "dependencies": {
     "fs-extra": "^10.0.0",
+    "mkdirp": "^1.0.4",
     "optionator": "^0.9.1",
     "source-map": "^0.7.3"
   },
